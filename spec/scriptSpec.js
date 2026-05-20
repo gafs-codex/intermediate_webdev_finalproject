@@ -1,4 +1,4 @@
-const { calculateSimpleInterest, calculateTotalPayableAmount } = require('../src/script');
+const { calculateSimpleInterest, calculateTotalPayableAmount } = require('../src');
 
 describe("calculateSimpleInterest", () => {
 
